@@ -1,0 +1,123 @@
+﻿respondent_id,gender,age_group,income_group,occupation,city_size,purchased_drone_before,intend_purchase_future,most_familiar_brand,channel_ecommerce,channel_live_broadcasting,channel_physical_store,aware_of_M_company,M_company_awareness_level,promo_evaluation,improve_unreasonable_pricing,improve_insufficient_promotion,improve_low_awareness,improve_limited_sales_channels,improve_inadequate_design_development,improve_insufficient_pre_post_sales_service,openness_to_online_marketing,main_shopping_channel,suggestion_english
+R001,Male,25-34,<3k,Other,County/Rural,1,0,DJI,1,1,0,1,5,Sufficient Promotion,1,0,1,1,1,0,5,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R002,Female,18-24,10k+,Other,County/Rural,0,1,Autel,1,0,0,1,2,Sufficient Promotion,0,0,0,1,0,0,2,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R003,Female,18-24,3k-6k,Employee,Tier-2,1,1,DJI,1,0,0,0,1,Insufficient Promotion,0,0,1,1,0,1,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R004,Male,25-34,10k+,Student,Tier-3,0,1,Parrot,1,0,0,1,3,Sufficient Promotion,0,0,0,0,0,0,1,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R005,Male,35-44,10k+,Student,Tier-2,0,1,Autel,1,1,0,1,3,Insufficient Promotion,1,1,0,1,0,1,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R006,Male,35-44,6k-10k,Student,Tier-1,0,0,Skydio,1,0,0,1,5,Insufficient Promotion,0,1,0,0,0,0,2,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R007,Male,18-24,3k-6k,Student,Tier-2,0,1,Other/Unknown,1,1,0,1,3,Sufficient Promotion,0,0,1,1,0,0,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R008,Female,25-34,3k-6k,Self-employed,Tier-2,0,1,DJI,1,1,1,1,4,Sufficient Promotion,1,1,1,1,0,0,5,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R009,Male,25-34,6k-10k,Student,Tier-3,0,0,DJI,1,1,0,1,4,Sufficient Promotion,0,0,0,0,0,1,3,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R010,Female,18-24,3k-6k,Employee,Tier-1,0,1,DJI,1,0,0,1,2,Insufficient Promotion,1,1,1,1,0,0,2,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R011,Male,18-24,<3k,Manager,County/Rural,1,0,DJI,1,0,1,1,4,Insufficient Promotion,0,1,1,1,1,0,3,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R012,Female,25-34,3k-6k,Student,County/Rural,0,1,Autel,1,0,0,0,1,Insufficient Promotion,0,1,1,0,0,0,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R013,Female,45+,10k+,Manager,Tier-3,0,0,Other/Unknown,1,0,1,1,2,Sufficient Promotion,1,0,1,0,1,1,2,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R014,Male,25-34,6k-10k,Employee,Tier-2,0,1,DJI,1,1,0,1,5,Sufficient Promotion,0,0,0,1,1,0,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R015,Male,25-34,3k-6k,Student,Tier-2,1,1,DJI,1,1,1,1,4,Sufficient Promotion,0,0,1,0,0,0,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R016,Male,25-34,<3k,Self-employed,Tier-3,1,0,DJI,1,1,0,1,4,Sufficient Promotion,0,1,1,0,1,1,5,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R017,Male,25-34,3k-6k,Employee,Tier-3,0,1,Parrot,1,1,1,0,1,Sufficient Promotion,0,0,0,0,0,0,4,Live broadcasting platform,Optimize pricing strategy and highlight value-for-money features.
+R018,Male,45+,10k+,Manager,Tier-1,0,1,Autel,0,1,0,1,3,Insufficient Promotion,1,0,1,0,1,1,4,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R019,Male,45+,<3k,Self-employed,County/Rural,0,0,DJI,0,0,1,1,5,Insufficient Promotion,0,0,1,1,1,1,5,Physical store,Strengthen after-sales support with faster response and clearer warranty policy.
+R020,Male,18-24,3k-6k,Manager,Tier-3,1,1,Other/Unknown,1,0,1,0,1,Sufficient Promotion,0,0,1,1,1,1,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R021,Male,25-34,6k-10k,Employee,County/Rural,0,0,Skydio,1,1,0,0,3,Insufficient Promotion,0,1,1,0,1,0,5,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R022,Male,25-34,6k-10k,Student,Tier-3,1,0,DJI,1,1,0,1,4,Sufficient Promotion,1,0,0,0,1,1,2,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R023,Male,25-34,6k-10k,Self-employed,Tier-3,1,1,Autel,1,1,0,0,1,Sufficient Promotion,1,1,0,1,0,1,5,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R024,Male,18-24,6k-10k,Manager,Tier-2,0,0,Skydio,1,0,0,0,1,Sufficient Promotion,0,0,0,1,0,0,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R025,Male,25-34,3k-6k,Other,County/Rural,0,1,DJI,1,0,0,1,4,Sufficient Promotion,0,0,0,1,0,0,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R026,Female,25-34,3k-6k,Employee,Tier-3,0,0,DJI,0,1,0,0,1,Sufficient Promotion,1,1,1,0,0,1,1,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R027,Male,18-24,6k-10k,Employee,Tier-1,0,1,DJI,1,1,1,1,4,Sufficient Promotion,0,0,0,1,1,0,3,Physical store,Expand sales channels and ensure stock availability across regions.
+R028,Male,18-24,6k-10k,Self-employed,Tier-1,0,1,DJI,1,1,1,1,4,Sufficient Promotion,1,0,0,1,1,1,4,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R029,Male,35-44,6k-10k,Employee,Tier-2,0,1,Other/Unknown,1,0,0,1,3,Sufficient Promotion,1,0,1,1,0,0,3,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R030,Male,18-24,10k+,Other,Tier-3,0,0,Other/Unknown,1,1,0,1,2,Sufficient Promotion,0,0,1,0,1,1,4,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R031,Male,18-24,3k-6k,Manager,County/Rural,0,1,DJI,1,1,1,0,2,Sufficient Promotion,0,0,1,0,1,0,4,Physical store,Improve product awareness through consistent content marketing and community engagement.
+R032,Male,25-34,3k-6k,Employee,Tier-1,1,1,DJI,1,1,0,0,1,Sufficient Promotion,1,1,0,1,0,1,3,Live broadcasting platform,Optimize pricing strategy and highlight value-for-money features.
+R033,Male,45+,6k-10k,Self-employed,Tier-3,0,1,DJI,1,0,0,1,4,Sufficient Promotion,1,1,0,1,0,0,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R034,Female,18-24,6k-10k,Self-employed,Tier-2,0,1,DJI,1,1,1,1,4,Sufficient Promotion,0,0,0,1,0,0,5,Live broadcasting platform,Optimize pricing strategy and highlight value-for-money features.
+R035,Female,25-34,6k-10k,Student,County/Rural,0,1,Skydio,1,1,0,1,4,Insufficient Promotion,1,1,1,1,0,0,4,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R036,Female,35-44,6k-10k,Other,Tier-3,0,0,DJI,1,1,0,1,3,Sufficient Promotion,1,0,1,0,0,1,2,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R037,Male,18-24,10k+,Employee,Tier-3,0,0,DJI,1,1,0,1,4,Insufficient Promotion,0,1,1,1,1,0,4,Live broadcasting platform,Improve product awareness through consistent content marketing and community engagement.
+R038,Male,35-44,3k-6k,Manager,Tier-2,0,0,DJI,1,1,0,1,3,Sufficient Promotion,0,0,1,1,1,0,2,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R039,Female,25-34,3k-6k,Employee,Tier-2,1,1,DJI,0,1,0,0,2,Insufficient Promotion,1,1,0,0,0,0,5,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R040,Male,25-34,<3k,Manager,Tier-2,0,1,DJI,0,1,0,1,4,Sufficient Promotion,1,0,0,1,0,0,2,Live broadcasting platform,Optimize pricing strategy and highlight value-for-money features.
+R041,Male,25-34,3k-6k,Employee,Tier-1,1,1,Autel,1,0,0,0,1,Insufficient Promotion,1,0,0,0,0,0,4,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R042,Male,25-34,<3k,Student,Tier-3,1,0,DJI,1,1,1,1,3,Sufficient Promotion,1,0,1,1,1,0,5,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R043,Male,18-24,3k-6k,Other,Tier-3,1,1,Parrot,1,1,0,1,2,Sufficient Promotion,0,1,1,1,0,0,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R044,Female,35-44,3k-6k,Student,County/Rural,0,0,Autel,0,1,0,1,2,Sufficient Promotion,0,0,0,0,0,0,4,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R045,Male,25-34,3k-6k,Employee,County/Rural,1,1,DJI,1,0,0,1,2,Insufficient Promotion,1,1,0,1,0,1,4,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R046,Female,18-24,3k-6k,Other,Tier-2,1,0,DJI,1,1,1,0,2,Sufficient Promotion,1,0,0,0,1,0,5,Live broadcasting platform,Improve product awareness through consistent content marketing and community engagement.
+R047,Male,18-24,<3k,Other,Tier-3,1,0,Skydio,1,1,1,1,3,Sufficient Promotion,1,0,1,1,0,0,5,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R048,Male,25-34,<3k,Employee,County/Rural,0,0,Other/Unknown,1,1,0,0,2,Insufficient Promotion,0,1,1,0,0,0,4,Live broadcasting platform,Improve product awareness through consistent content marketing and community engagement.
+R049,Male,25-34,6k-10k,Employee,Tier-3,0,0,DJI,1,0,1,1,3,Insufficient Promotion,0,1,1,0,1,1,4,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R050,Male,18-24,3k-6k,Employee,Tier-2,0,0,DJI,1,0,0,0,2,Sufficient Promotion,0,0,0,0,0,0,3,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R051,Female,25-34,<3k,Employee,Tier-2,1,1,Other/Unknown,1,0,0,1,3,Insufficient Promotion,1,1,1,0,0,0,4,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R052,Female,18-24,3k-6k,Employee,Tier-1,1,1,DJI,1,0,1,0,2,Sufficient Promotion,0,0,0,1,1,0,3,Physical store,Optimize pricing strategy and highlight value-for-money features.
+R053,Female,25-34,6k-10k,Self-employed,County/Rural,0,1,DJI,1,0,0,0,2,Insufficient Promotion,0,0,0,0,1,1,2,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R054,Female,18-24,<3k,Self-employed,Tier-3,1,1,Other/Unknown,1,0,0,1,3,Insufficient Promotion,0,1,1,0,0,1,2,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R055,Male,25-34,6k-10k,Manager,Tier-2,0,1,DJI,1,1,0,1,4,Sufficient Promotion,0,1,1,1,0,1,3,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R056,Female,25-34,<3k,Manager,Tier-3,0,1,Autel,1,1,0,0,1,Insufficient Promotion,0,1,1,1,1,1,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R057,Male,45+,<3k,Student,Tier-3,0,0,DJI,1,1,0,0,2,Sufficient Promotion,0,0,0,0,0,0,2,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R058,Male,18-24,3k-6k,Employee,Tier-2,0,1,DJI,1,1,0,1,3,Sufficient Promotion,1,0,0,1,0,0,5,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R059,Male,25-34,3k-6k,Student,Tier-1,0,1,DJI,0,1,0,1,4,Insufficient Promotion,1,1,0,1,1,0,3,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R060,Male,18-24,6k-10k,Employee,Tier-3,0,1,Skydio,1,1,0,0,3,Sufficient Promotion,0,0,1,1,1,0,5,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R061,Male,45+,6k-10k,Employee,Tier-2,0,1,DJI,1,1,0,0,2,Sufficient Promotion,1,1,0,1,1,0,3,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R062,Male,35-44,10k+,Manager,Tier-3,1,1,DJI,1,0,0,0,1,Sufficient Promotion,0,1,0,0,0,0,3,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R063,Female,18-24,3k-6k,Employee,Tier-2,1,1,DJI,1,1,0,0,1,Sufficient Promotion,0,1,0,1,1,0,5,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R064,Male,25-34,3k-6k,Student,Tier-3,1,0,DJI,1,1,0,1,4,Insufficient Promotion,0,1,1,0,1,0,5,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R065,Male,35-44,6k-10k,Student,Tier-2,1,1,Other/Unknown,1,1,0,1,3,Insufficient Promotion,1,1,1,1,1,1,3,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R066,Male,25-34,3k-6k,Self-employed,Tier-2,1,0,DJI,0,0,1,1,4,Sufficient Promotion,0,1,1,1,1,0,5,Physical store,Expand sales channels and ensure stock availability across regions.
+R067,Male,25-34,3k-6k,Employee,Tier-3,0,0,Autel,1,0,0,1,2,Insufficient Promotion,0,1,1,1,0,0,5,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R068,Female,18-24,<3k,Student,Tier-2,1,0,Skydio,1,0,0,0,1,Insufficient Promotion,0,1,1,0,0,1,3,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R069,Male,18-24,<3k,Student,Tier-1,0,1,Autel,1,1,0,1,4,Sufficient Promotion,0,0,0,1,1,1,4,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R070,Female,35-44,10k+,Self-employed,Tier-1,0,0,DJI,1,1,1,0,2,Sufficient Promotion,0,0,0,0,0,1,5,Physical store,Strengthen after-sales support with faster response and clearer warranty policy.
+R071,Female,35-44,6k-10k,Student,Tier-3,1,0,DJI,1,0,0,1,4,Insufficient Promotion,0,0,1,1,1,0,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R072,Male,25-34,6k-10k,Manager,Tier-3,0,0,DJI,1,1,1,1,4,Sufficient Promotion,1,1,1,0,0,0,4,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R073,Male,25-34,3k-6k,Self-employed,Tier-3,0,1,DJI,1,1,0,1,5,Insufficient Promotion,0,0,0,0,0,0,5,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R074,Female,25-34,<3k,Student,Tier-2,1,0,DJI,1,0,0,1,3,Sufficient Promotion,0,0,0,1,1,1,3,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R075,Female,35-44,<3k,Student,Tier-1,0,0,Skydio,1,1,1,1,3,Insufficient Promotion,0,0,1,1,1,0,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R076,Female,35-44,3k-6k,Other,Tier-1,1,1,DJI,0,1,0,1,3,Insufficient Promotion,0,1,1,1,0,1,3,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R077,Female,35-44,3k-6k,Employee,Tier-2,1,0,DJI,1,0,0,1,3,Sufficient Promotion,0,1,0,1,0,0,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R078,Male,35-44,6k-10k,Employee,Tier-3,1,0,Autel,1,1,0,1,4,Sufficient Promotion,0,0,0,1,0,0,5,Live broadcasting platform,Optimize pricing strategy and highlight value-for-money features.
+R079,Male,25-34,6k-10k,Manager,Tier-2,0,1,DJI,1,0,0,1,3,Insufficient Promotion,1,1,0,1,1,0,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R080,Male,18-24,3k-6k,Other,Tier-2,1,0,Parrot,1,1,0,1,4,Sufficient Promotion,1,0,0,1,0,1,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R081,Female,18-24,10k+,Other,County/Rural,0,1,Autel,1,1,1,1,3,Sufficient Promotion,1,0,0,0,1,0,4,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R082,Female,35-44,6k-10k,Self-employed,Tier-2,0,1,DJI,1,1,0,0,1,Insufficient Promotion,0,1,1,0,0,0,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R083,Male,25-34,3k-6k,Employee,Tier-2,0,0,Parrot,1,1,0,1,4,Sufficient Promotion,0,0,1,1,0,1,5,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R084,Male,18-24,3k-6k,Student,Tier-3,1,0,DJI,1,0,0,0,1,Sufficient Promotion,0,1,1,0,1,0,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R085,Male,18-24,3k-6k,Self-employed,Tier-2,1,0,DJI,1,0,0,0,1,Sufficient Promotion,0,0,0,0,1,0,1,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R086,Male,25-34,3k-6k,Employee,Tier-3,1,0,DJI,1,1,1,1,3,Sufficient Promotion,0,1,0,1,0,0,5,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R087,Female,18-24,3k-6k,Employee,Tier-3,1,1,DJI,1,0,1,1,2,Insufficient Promotion,0,1,1,1,0,0,2,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R088,Female,18-24,6k-10k,Other,County/Rural,1,1,Parrot,1,1,1,1,3,Sufficient Promotion,1,0,0,1,0,0,5,Physical store,Strengthen after-sales support with faster response and clearer warranty policy.
+R089,Female,25-34,<3k,Student,Tier-1,1,1,DJI,1,0,0,1,2,Sufficient Promotion,0,0,0,0,0,0,1,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R090,Male,25-34,<3k,Employee,County/Rural,0,1,DJI,1,0,0,1,3,Sufficient Promotion,0,0,0,0,0,1,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R091,Male,25-34,<3k,Student,Tier-2,0,1,DJI,1,0,0,1,4,Sufficient Promotion,1,0,0,0,1,0,2,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R092,Female,18-24,<3k,Employee,Tier-2,0,0,Parrot,1,1,0,1,4,Sufficient Promotion,0,1,0,1,0,0,5,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R093,Female,25-34,6k-10k,Student,Tier-2,0,1,DJI,1,1,0,1,4,Insufficient Promotion,0,1,1,0,0,1,4,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R094,Male,18-24,6k-10k,Student,County/Rural,1,1,Skydio,1,1,0,1,2,Sufficient Promotion,1,0,0,0,0,0,3,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R095,Female,25-34,3k-6k,Student,Tier-2,0,1,Autel,1,0,1,1,4,Insufficient Promotion,0,1,1,1,1,0,3,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R096,Male,35-44,<3k,Self-employed,Tier-2,0,1,Skydio,1,0,0,1,3,Insufficient Promotion,1,0,1,0,0,1,2,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R097,Male,25-34,3k-6k,Self-employed,Tier-3,0,1,Other/Unknown,1,0,0,1,3,Insufficient Promotion,0,0,1,0,0,0,2,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R098,Male,35-44,3k-6k,Employee,Tier-2,1,1,Parrot,1,1,1,1,4,Insufficient Promotion,0,0,1,0,0,0,5,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R099,Male,25-34,<3k,Other,Tier-1,0,1,Other/Unknown,1,0,0,0,1,Sufficient Promotion,1,1,0,1,0,0,3,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R100,Male,25-34,3k-6k,Employee,Tier-1,1,1,DJI,1,1,0,1,4,Sufficient Promotion,0,1,1,0,0,0,5,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R101,Male,18-24,3k-6k,Employee,Tier-1,0,0,Autel,1,0,1,1,4,Sufficient Promotion,0,0,0,0,0,0,4,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R102,Female,25-34,3k-6k,Manager,Tier-1,0,0,DJI,1,0,0,1,3,Sufficient Promotion,0,1,0,0,0,1,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R103,Male,18-24,6k-10k,Employee,Tier-1,0,1,DJI,1,0,0,1,3,Sufficient Promotion,0,0,1,1,0,0,2,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R104,Male,18-24,<3k,Other,Tier-3,0,1,DJI,1,1,0,0,2,Sufficient Promotion,0,0,1,1,1,0,4,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R105,Female,45+,3k-6k,Student,Tier-1,0,1,Autel,1,0,1,1,5,Sufficient Promotion,0,0,0,0,0,0,4,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R106,Male,25-34,6k-10k,Other,Tier-2,0,1,DJI,1,1,0,1,3,Sufficient Promotion,0,0,0,1,0,0,5,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R107,Male,35-44,3k-6k,Student,County/Rural,1,0,DJI,0,1,0,0,1,Sufficient Promotion,1,0,1,1,0,1,3,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R108,Female,25-34,6k-10k,Manager,Tier-2,1,1,Skydio,1,1,0,0,2,Insufficient Promotion,0,1,1,0,0,0,4,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R109,Male,35-44,6k-10k,Employee,Tier-3,1,1,DJI,1,0,0,0,1,Insufficient Promotion,0,1,1,1,0,1,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R110,Male,25-34,<3k,Other,Tier-1,0,1,Parrot,1,1,0,1,2,Sufficient Promotion,0,0,1,0,0,0,5,E-commerce platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R111,Male,25-34,<3k,Student,Tier-1,0,1,Skydio,1,1,0,0,2,Sufficient Promotion,0,0,1,1,1,1,4,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R112,Male,25-34,6k-10k,Employee,Tier-1,0,1,Other/Unknown,1,1,0,1,4,Insufficient Promotion,0,1,1,1,1,0,4,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R113,Female,18-24,<3k,Other,Tier-1,0,1,Autel,1,1,0,1,5,Insufficient Promotion,0,1,1,0,0,1,5,Live broadcasting platform,"Enhance product design, usability, and battery performance based on user feedback."
+R114,Female,35-44,3k-6k,Employee,Tier-2,0,1,Skydio,1,0,0,1,3,Insufficient Promotion,1,1,1,1,1,0,1,E-commerce platform,Optimize pricing strategy and highlight value-for-money features.
+R115,Female,25-34,10k+,Employee,Tier-1,0,0,Other/Unknown,1,0,0,1,3,Sufficient Promotion,1,0,0,0,1,0,1,E-commerce platform,Expand sales channels and ensure stock availability across regions.
+R116,Female,18-24,3k-6k,Self-employed,Tier-1,0,0,Other/Unknown,0,1,0,1,3,Sufficient Promotion,1,1,0,1,1,0,4,Live broadcasting platform,Strengthen after-sales support with faster response and clearer warranty policy.
+R117,Female,25-34,3k-6k,Employee,Tier-1,0,0,DJI,0,1,1,1,4,Sufficient Promotion,1,0,1,0,1,0,5,Live broadcasting platform,Expand sales channels and ensure stock availability across regions.
+R118,Male,18-24,6k-10k,Employee,Tier-2,0,1,DJI,1,0,0,1,3,Sufficient Promotion,1,0,0,1,0,1,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R119,Female,45+,3k-6k,Employee,Tier-2,0,1,DJI,1,0,0,0,2,Sufficient Promotion,1,1,1,0,0,0,3,E-commerce platform,Improve product awareness through consistent content marketing and community engagement.
+R120,Male,45+,3k-6k,Other,Tier-2,0,1,DJI,1,0,0,0,3,Sufficient Promotion,0,0,1,1,0,1,3,E-commerce platform,"Enhance product design, usability, and battery performance based on user feedback."
+R121,Female,35-44,10k+,Student,Tier-2,1,1,Autel,0,1,1,1,4,Sufficient Promotion,1,0,0,0,0,0,3,Live broadcasting platform,Improve product awareness through consistent content marketing and community engagement.
+R122,Female,25-34,3k-6k,Employee,Tier-3,0,1,Parrot,0,1,0,1,3,Insufficient Promotion,0,1,1,0,0,1,4,Live broadcasting platform,Improve product awareness through consistent content marketing and community engagement.
